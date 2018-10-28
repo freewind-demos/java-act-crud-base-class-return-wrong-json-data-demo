@@ -1,3 +1,6 @@
 *.log
 target/
 .act.*
+test.mv.db
+*.sql
+*.pid
